@@ -1,0 +1,59 @@
+.icon-container {
+    opacity: 0;
+    animation: fadeIn 2s forwards ease-in-out;
+}
+
+.icon-0 {
+    animation-delay: 0s;
+}
+
+.icon-1 {
+    animation-delay: 0.4s;
+}
+
+.icon-2 {
+    animation-delay: 0.8s;
+}
+
+.icon-3 {
+    animation-delay: 1.2s;
+}
+
+.icon-4 {
+    animation-delay: 1.6s;
+}
+
+.icon-5 {
+    animation-delay: 2s;
+}
+
+.icon-6 {
+    animation-delay: 2.4s;
+}
+
+.icon-7 {
+    animation-delay: 2.8s;
+}
+
+.icon-8 {
+    animation-delay: 3.2s;
+}
+
+.icon-9 {
+    animation-delay: 3.6s;
+}
+
+.icon-10 {
+    animation-delay: 4s;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
