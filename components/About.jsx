@@ -39,18 +39,18 @@ const qualificationData = [
     title: "education",
     data: [
       {
-        university: "Example University",
-        qualification: "Bachelor of Science",
-        years: "2015 - 2018",
+        university: "Faith Lutheran College Redlands",
+        qualification: "High School",
+        years: "2003 - 2008",
       },
       {
-        university: "Another University",
-        qualification: "Master of Arts",
-        years: "2019 - 2021",
+        university: "Tafe Queensland",
+        qualification: "Certificate II in Electrotechnology",
+        years: "2009",
       },
       {
-        university: "Yet Another University",
-        qualification: "Ph.D in Computer Science",
+        university: "Coder Academy Australia",
+        qualification: "Higher Education Diploma of Information Technology",
         years: "2021 - 2025",
       },
     ],
@@ -59,19 +59,19 @@ const qualificationData = [
     title: "experience",
     data: [
       {
-        company: "ABC Inc.",
-        role: "Software Engineer",
-        years: "2018 - 2020",
+        company: "Terrex Seismic",
+        role: "Seismic Surveyor",
+        years: "2011 - 2016",
       },
       {
-        company: "XYZ Corporation",
-        role: "Senior Developer",
-        years: "2020 - 2022",
+        company: "Delta Group",
+        role: "Civil Construction",
+        years: "2017 - 2020",
       },
       {
-        company: "Tech Innovators",
-        role: "Lead Developer",
-        years: "2022 - Present",
+        company: "Raine & Horne",
+        role: "Sales Consultant",
+        years: "2022 - 2024",
       },
     ],
   },
@@ -175,7 +175,7 @@ const About = () => {
                       specialising in full-stack web development. My journey
                       includes diverse experiences, from mining to real estate.
                       Thrilled by coding challenges, I'm passionate about
-                      crafting innovative digital solutions. Proud parent of
+                      crafting innovative digital solutions. Proud father of
                       Charlotte Grace, embracing the adventure of family life
                       with partner Skye.
                     </p>
@@ -205,7 +205,7 @@ const About = () => {
                 <TabsContent value="qualifications">
                   <div>
                     <h3 className="h3 mb-8 text-center xl:text-left">
-                      My Awesome Journey
+                      My Diverse Journey
                     </h3>
                     {/* experience & education wrapper */}
                     <div className="grid md:grid-cols-2 gap-y-8">

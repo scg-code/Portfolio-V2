@@ -20,11 +20,7 @@ const Hero = () => {
             <h1 className="h1 mb-4">Hello, my name is Samuel Gifford</h1>
             <p className="subtitle max-w-[490px] mx-auto xl:mx-0">
               A tech enthusiast and agile problem solver, I'm a dedicated
-              software developer skilled in both front-end and back-end
-              technologies. With a passion for innovation, I bring a creative
-              and collaborative approach to every project. Committed to
-              continual learning, I thrive in the dynamic and evolving realm of
-              software development.
+              
             </p>
             {/* buttons */}
             <div className="flex flex-col gap-y-3 md:flex-row gap-x-3 mx-auto xl:mx-0 mb-12">
