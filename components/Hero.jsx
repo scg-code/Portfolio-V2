@@ -19,7 +19,7 @@ const Hero = () => {
             </div>
             <h1 className="h1 mb-4">Hello, my name is Samuel Gifford</h1>
             <p className="subtitle max-w-[490px] mx-auto xl:mx-0">
-              A tech enthusiast and agile problem solver, I'm a dedicated
+            A tech enthusiast and agile problem solver, I'm a dedicated individual passionate about leveraging technology to tackle challenges and drive innovation. With a strong foundation in full-stack web development, I thrive in dynamic environments where I can apply my creativity and critical thinking to deliver impactful solutions.
               
             </p>
             {/* buttons */}
