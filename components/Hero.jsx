@@ -19,8 +19,7 @@ const Hero = () => {
             </div>
             <h1 className="h1 mb-4">Hello, my name is Samuel Gifford</h1>
             <p className="subtitle max-w-[490px] mx-auto xl:mx-0">
-              Tech enthusiast, agile problem solver, dedicated to innovation and
-              impactful solutions.
+              Tech enthusiast, agile problem solver, passionate about web.
             </p>
             {/* buttons */}
             <div className="flex flex-col gap-y-3 md:flex-row gap-x-3 mx-auto xl:mx-0 mb-12">
