@@ -132,7 +132,7 @@ const About = () => {
   };
 
   return (
-    <section className="mt-10 xl:h-[860px] pb-12 xl:py-24">
+    <section className="mt-50 xl:h-[860px] pb-12 xl:py-24">
       <div className="container mx-auto">
         <h2 className="section-title mb-8 xl:mb-16 text-center mx-auto">
           About me
