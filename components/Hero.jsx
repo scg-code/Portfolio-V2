@@ -29,10 +29,12 @@ const Hero = () => {
                   Contact me <Send size={18} />
                 </Button>
               </Link>
-              <Button variant="secondary" className="gap-x-2">
-                Download CV
-                <Download size={18} />
-              </Button>
+              <a href="https://drive.google.com/file/d/1PxTe8IQsqRc_GL2YoKadtm5_F00FxfBa/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                <Button variant="secondary" className="gap-x-2">
+                  Resume
+                  <Download size={18} />
+                </Button>
+              </a>
             </div>
             {/* socials */}
             <Socials
